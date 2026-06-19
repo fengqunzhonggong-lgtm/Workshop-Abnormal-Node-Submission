@@ -1,0 +1,14 @@
+node_modules/
+dist/
+backups/
+build_temp/
+build_tmp/
+release/
+output/
+__pycache__/
+factory_anomaly.db
+factory_anomaly.db-shm
+factory_anomaly.db-wal
+.env
+*.db
+.claude/settings.local.json
